@@ -3,6 +3,7 @@
 - [标签](Label)
 - [按钮](Button)
 - [顶层窗口](Toplevel)
+- [对话框](Dialogs)
 
 
 目录缩写说明：
