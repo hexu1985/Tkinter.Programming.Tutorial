@@ -1,4 +1,4 @@
-## Widget浏览
+## 组件
 
 - [顶层窗口](Toplevel)
 - [框架](Frame)
