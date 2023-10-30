@@ -15,7 +15,12 @@
 - [用类复用GUI部件](getting_started/reusable_gui_components_with_classes)
 - [独立的容器](getting_started/standalone_container_classes)
 
-目录缩写说明：
+### Ubuntu安装依赖
+```
+$ sudo apt-get install python3-tk
+```
+
+### 目录缩写说明：
 - PP4E: Python编程 第4版
 - PATP: Python与Tkinter编程
 - PGTRP: Python GUI设计: tkinter菜鸟编程
