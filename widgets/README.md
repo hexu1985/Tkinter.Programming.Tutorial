@@ -5,5 +5,6 @@
 - [标签框架](LabelFrame)
 - [标签](Label)
 - [按钮](Button)
+- [消息](Message)
 
 
