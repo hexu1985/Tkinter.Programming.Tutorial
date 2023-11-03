@@ -15,6 +15,17 @@
 - [用类复用GUI部件](getting_started/reusable_gui_components_with_classes)
 - [独立的容器](getting_started/standalone_container_classes)
 
+## [控件](widgets)
+
+- [顶层窗口](widgets/Toplevel)
+- [框架](widgets/Frame)
+- [标签框架](widgets/LabelFrame)
+- [标签](widgets/Label)
+- [按钮](widgets/Button)
+- [消息](widgets/Message)
+- [文本(输入)框](widgets/Entry)
+- [单选按钮](widgets/Radiobutton)
+
 ### Ubuntu安装依赖
 ```
 $ sudo apt-get install python3-tk
