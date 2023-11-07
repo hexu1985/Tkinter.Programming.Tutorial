@@ -25,13 +25,9 @@
 - [消息](widgets/Message)
 - [文本(输入)框](widgets/Entry)
 - [单选按钮](widgets/Radiobutton)
+- [复选按钮](widgets/Checkbutton)
 
 ### Ubuntu安装依赖
 ```
 $ sudo apt-get install python3-tk
 ```
-
-### 目录缩写说明：
-- PP4E: Python编程 第4版
-- PATP: Python与Tkinter编程
-- PGTRP: Python GUI设计: tkinter菜鸟编程
