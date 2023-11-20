@@ -19,7 +19,7 @@ pwdL.grid(row=2)                     # 默认是 column=0
 logo.grid(row=0,column=0,columnspan=2,pady=10,padx=10)
 accountE = Entry(root)                      # name文本框
 pwdE = Entry(root,show="*")                   # address文本框
-accountE.insert(0,"林祖泉")
+accountE.insert(0,"Kevin")
 pwdE.insert(0,"pwd")
 
 accountE.grid(row=1,column=1)               # 定位name文本框
