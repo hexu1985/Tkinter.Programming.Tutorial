@@ -26,6 +26,8 @@
 - [文本(输入)框](widgets/Entry)
 - [单选按钮](widgets/Radiobutton)
 - [复选按钮](widgets/Checkbutton)
+- [菜单](widgets/Menu)
+- [选项菜单](widgets/OptionMenu)
 
 ### Ubuntu安装依赖
 ```
