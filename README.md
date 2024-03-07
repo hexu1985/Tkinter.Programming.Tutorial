@@ -16,7 +16,6 @@
 - [独立的容器](getting_started/standalone_container_classes)
 
 ## [控件](widgets)
-
 - [顶层窗口](widgets/Toplevel)
 - [框架](widgets/Frame)
 - [标签框架](widgets/LabelFrame)
@@ -28,6 +27,16 @@
 - [复选按钮](widgets/Checkbutton)
 - [菜单](widgets/Menu)
 - [选项菜单](widgets/OptionMenu)
+
+## 布局管理器
+- [顺序布局](layout_manager/pack)
+- [网格布局](layout_manager/grid)
+- [任意布局](layout_manager/place)
+
+## 绑定事件
+- [回调函数](binding_events/command)
+- [绑定事件](binding_events/bind)
+- [窗口协议](binding_events/protocol)
 
 ### Ubuntu安装依赖
 ```
