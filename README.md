@@ -26,7 +26,7 @@
 - [单选按钮](widgets/Radiobutton)
 - [复选按钮](widgets/Checkbutton)
 - [标尺](widgets/Scale)
-- [菜单](widgets/Menu)
+- [菜单/菜单按钮](widgets/Menu_Menubutton)
 - [选项菜单](widgets/OptionMenu)
 
 ## 布局管理器
