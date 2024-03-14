@@ -9,6 +9,7 @@
 - [文本(输入)框](Entry)
 - [单选按钮](Radiobutton)
 - [复选按钮](Checkbutton)
+- [标尺](Scale)
 - [菜单](Menu)
 - [选项菜单](OptionMenu)
 
