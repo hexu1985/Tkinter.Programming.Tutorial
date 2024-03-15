@@ -29,6 +29,7 @@
 - [菜单/菜单按钮](widgets/Menu_Menubutton)
 - [选项菜单](widgets/OptionMenu)
 - [列表框与滚动条](widgets/Listbox_Scrollbar)
+- [文本](widgets/Text)
 
 ## 布局管理器
 - [顺序布局](layout_manager/pack)
