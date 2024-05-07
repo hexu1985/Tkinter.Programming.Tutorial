@@ -30,6 +30,7 @@
 - [选项菜单](widgets/OptionMenu)
 - [列表框与滚动条](widgets/Listbox_Scrollbar)
 - [文本](widgets/Text)
+- [画布](widgets/Canvas)
 
 ## 布局管理器
 - [顺序布局](layout_manager/pack)

@@ -14,4 +14,4 @@
 - [选项菜单](OptionMenu)
 - [列表框与滚动条](Listbox_Scrollbar)
 - [文本](Text)
-
+- [画布](Canvas)
